@@ -3,7 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-API_KEY = 'AIzaSyB4WlDeTUCO0O93n3Kh6P41-Fwqr7hyH5c'
+API_KEY = 'key'
 
 def get_channel_id(api_key, custom_url):
     base_url = 'https://www.googleapis.com/youtube/v3/search'
